@@ -118,11 +118,9 @@ This is a simple React Native application that displays a list of users and allo
 
 ## **Screenshots**
 
-### **User List Screen**
-![User List Screen](screenshots/user-list.png)
+### **User List Screen**![Screenshot 2024-12-14 130324](https://github.com/user-attachments/assets/2be232a2-df9e-4dc7-b63b-fd329c57b42a)
 
-### **User Details Screen**
-![User Details Screen](screenshots/user-details.png)
+### **User Details Screen**![Screenshot 2024-12-14 130333](https://github.com/user-attachments/assets/a50164d1-389b-4e11-aad2-8605e6fb08e7)
 
 ---
 
