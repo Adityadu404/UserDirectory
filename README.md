@@ -18,7 +18,6 @@ This is a simple React Native application that displays a list of users and allo
 
 3. **Error Handling**  
    - Handles API failures gracefully with appropriate error messages.
-   - Includes a retry button for fetching data if the API call fails.
 
 4. **Responsive and Modern UI**  
    - Clean and responsive design with proper spacing and styling.
@@ -73,7 +72,6 @@ This is a simple React Native application that displays a list of users and allo
 
 3. **Error Handling:**  
    - Handles API failures using `try/catch`.
-   - Displays a retry button if the API call fails.
 
 4. **Navigation:**  
    - Uses `react-navigation` to navigate between the user list and user details screens.
